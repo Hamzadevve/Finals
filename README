@@ -31,3 +31,6 @@ POST /api/borrowers – Add a new borrower.
 PUT /api/borrowers/:id – Update an existing borrower.
 POST /api/borrowers/borrow – Borrow a book.
 POST /api/borrowers/return – Return a borrowed book.
+
+
+Author books and borrowers.json files are for filling dummy data
