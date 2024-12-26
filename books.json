@@ -1,0 +1,17 @@
+[
+    
+    { "title": "Book One by Author One", "author": "676d642ec505eb6e6d20f252", "isbn": "111-1111111111", "availableCopies": 5, "borrowFrequency": 3 },
+    { "title": "Book Two by Author One", "author": "676d642ec505eb6e6d20f252", "isbn": "112-1111111111", "availableCopies": 2, "borrowFrequency": 6 },
+    { "title": "Book Three by Author One", "author": "676d642ec505eb6e6d20f252", "isbn": "113-1111111111", "availableCopies": 10, "borrowFrequency": 5 },
+  
+    
+    { "title": "Book One by Author Two", "author": "676d642ec505eb6e6d20f253", "isbn": "211-1111111111", "availableCopies": 7, "borrowFrequency": 2 },
+    { "title": "Book Two by Author Two", "author": "676d642ec505eb6e6d20f253", "isbn": "212-1111111111", "availableCopies": 3, "borrowFrequency": 4 },
+    { "title": "Book Three by Author Two", "author": "676d642ec505eb6e6d20f253", "isbn": "213-1111111111", "availableCopies": 0, "borrowFrequency": 15 },
+  
+    
+    { "title": "Book One by Author Three", "author": "676d642ec505eb6e6d20f254", "isbn": "311-1111111111", "availableCopies": 8, "borrowFrequency": 10 },
+    { "title": "Book Two by Author Three", "author": "676d642ec505eb6e6d20f254", "isbn": "312-1111111111", "availableCopies": 4, "borrowFrequency": 6 },
+    { "title": "Book Three by Author Three", "author": "676d642ec505eb6e6d20f254", "isbn": "313-1111111111", "availableCopies": 12, "borrowFrequency": 11 }
+  ]
+  

@@ -1,0 +1,33 @@
+Following API operations are implemented:
+
+Books:
+
+Add, update, and delete books.
+Ensure available copies are properly managed.
+List books with high borrowing frequency and available copies.
+Authors:
+
+Add, update, and delete authors.
+Ensure authors are not linked to more than 5 books.
+Borrowers:
+
+Add and update borrowers.
+Borrow and return books with membership-specific limits.
+
+
+API Routes
+1. Books Routes
+POST /api/books – Add a new book.
+PUT /api/books/:id – Update an existing book.
+DELETE /api/books/:id – Delete a book.
+GET /api/books/limits – Get books with borrow frequency > 10 and available copies > 100.
+2. Authors Routes
+POST /api/authors – Add a new author.
+PUT /api/authors/:id – Update an existing author.
+DELETE /api/authors/:id – Delete an author.
+GET /api/authors/limits – Get authors linked to more than 5 books.
+3. Borrowers Routes
+POST /api/borrowers – Add a new borrower.
+PUT /api/borrowers/:id – Update an existing borrower.
+POST /api/borrowers/borrow – Borrow a book.
+POST /api/borrowers/return – Return a borrowed book.

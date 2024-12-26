@@ -1,0 +1,6 @@
+[
+    { "name": "John Doe", "membershipActive": true, "membershipType": "Standard", "borrowedBooks": [] },
+    { "name": "Jane Smith", "membershipActive": true, "membershipType": "Premium", "borrowedBooks": [] },
+    { "name": "Inactive User", "membershipActive": false, "membershipType": "Standard", "borrowedBooks": [] }
+  ]
+  

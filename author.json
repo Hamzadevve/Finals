@@ -1,0 +1,6 @@
+[
+    { "name": "Author One", "email": "author1@example.com", "phoneNumber": "1234567890" },
+    { "name": "Author Two", "email": "author2@example.com", "phoneNumber": "0987654321" },
+    { "name": "Author Three", "email": "author3@example.com", "phoneNumber": "1122334455" }
+  ]
+  
